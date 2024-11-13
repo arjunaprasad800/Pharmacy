@@ -1,0 +1,201 @@
+import os
+
+startpage = "QUICK PRESCRIPTION SERVICE"
+
+Click = " Click any button"
+
+if startpage == 1:
+
+    print(startpage+ 
+          "         "
+          + Click)
+    
+else:
+
+    print("click_to_start")
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"QUICK PRESCRIPTION SERVICE"</title>
+    <script "startpage==1">Click_here</script>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+import os
+
+def Menu():
+    Body_pain_relaxing_name_price= {"Paracetamol":40, "Diclophenac":50, "Aceplus":45}
+    Gastrointestinaldrugs = {"Panpro": 45, "omeprazole":40,"pantonix": 35, "Motigut":350}
+    Vitamins = {"V-plex"-120}
+    ####more drugs##
+def checkup():
+    checkupfromownerintaka= 100
+
+
+def bkashonpaymentforpatientsdrugs():
+    nameofthepatient= sharifmia
+    lastloan = ##addedemoney
+    newloan = int(input("sharifmia"))
+    totalloan= lastloan + newloan
+    newpayment = ###reducedmoney
+    reductedloan= totalloan-newpayment
+
+    return totalloan
+    if totalloan >=lastloan:
+        print("totalloan")
+    else:
+        print("newloan")
+    if totalloan = lastloan - newpayment:
+        print("reductedloan")
+    else:
+        print("No transaction")
+
+def contact():
+    Nabi_Uncle = #number
+    Kiran_vai = ##number
+    ##  more
+    
+def surgical_instruments_intaka():
+    surgical_instruments_intaka =={"scaple":300, "cotton":500, "gauge": 500}
+##more
+
+def utensils_intaka():
+    utensils_intaka=={"brush":50, "mouthwasher": 100, "vickscapsules":5}
+    ##more
+def balms_intaka():
+    balms_intaka = {"zandu":100, "tiger":100, "nix":50}
+    ##more
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUICK PRESCRIPTION SERVICE- Pharmacy</title>
+    </head>
+    <script1>
+        const moto= "We serve, best";
+        return Moto;
+    </script1>
+    <button>Click On The Button. </button>
+    <button2>"Drugs & Medicinal Accesories"
+    <script2> 
+        const menu(){
+        Body_pain_relaxing_name_price= {"Paracetamol":40, "Diclophenac":50, "Aceplus":45};
+        Gastrointestinaldrugs = {"Panpro": 45, "omeprazole":40,"pantonix": 35, "Motigut":350};
+        Vitamins = {"V-plex"-120} ##more} ;   
+    </script2>
+    <script3>
+        const checkup(){
+        checkupfromownerintaka= 100;
+
+        };
+    </script3>
+    <script4>
+        const bkashonpaymentforpatientsdrugs(){
+        nameofthepatient= sharifmia;
+        lastloan = ##addedemoney;
+        newloan = int(input("sharifmia"));
+        totalloan= lastloan + newloan;
+        newpayment = ###reducedmoney;
+        reductedloan= totalloan-newpayment;
+        return totalloan;
+        if (totalloan >=lastloan){
+            println("totalloan");
+
+        }
+        else(){
+            println("newloan");
+
+        }
+        if (totalloan = lastloan - newpayment){
+            print("reductedloan");
+
+        }
+        else(){;
+            print("No transaction");
+
+        }
+        const contact(){
+            Nabi_Uncle = #number;
+            Kiran_vai = ##number;
+                ## more
+        }
+        const surgical_instruments_intaka(){
+            surgical_instruments_intaka =={"scaple":300, "cotton":500, "gauge": 500};
+
+            ##more
+        }
+
+        const utensils_intaka(){
+            utensils_intaka=={"brush":50, "mouthwasher": 100, "vickscapsules":5};
+            ##more
+
+        }
+
+        const balms_intaka(){
+            balms_intaka = {"zandu":100, "tiger":100, "nix":50};
+            ##more
+
+        }
+
+        }
+    </script4>
+    </button2>
+
+<body>
+    
+</body>
+</html>
+
+
+.script1{
+    color: aliceblue;
+    text-decoration-color: blanchedalmond;
+    text-align: center;
+    text-shadow: 0cm;
+    border-top-style: double;
+    border-style: double;
+}
+
+
+.button{
+    mask-border-outset: animation-timing-function: ease-in-out;
+}
+
+.script2{
+    color: aquamarine;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 0cm;
+    border-top-style: double;
+    border-style: double;
+}
+
+.button2 {
+    mask-border-outset: animation-timing-function: ease-in-out;
+}
+
+.script3 {
+    color: aquamarine;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 0cm;
+    border-top-style: double;
+    border-style: double;
+}
+
+
+.script4 {
+    color: aquamarine;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 0cm;
+    border-top-style: double;
+    border-style: double;
+}
